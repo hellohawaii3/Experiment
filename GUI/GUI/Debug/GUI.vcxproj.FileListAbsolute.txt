@@ -1,0 +1,4 @@
+D:\workfiles\master1_autumn\AlwaysProgramming\Experiment\StackOverflowGUI\GUI\Debug\GUI.exe
+D:\workfiles\master1_autumn\AlwaysProgramming\Experiment\StackOverflowGUI\GUI\Debug\GUI.pdb
+D:\workfiles\master1_autumn\StackOverFlow\GUI\GUI\Debug\GUI.exe
+D:\workfiles\master1_autumn\StackOverFlow\GUI\GUI\Debug\GUI.pdb

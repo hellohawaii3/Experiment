@@ -1,0 +1,4 @@
+D:\workfiles\master1_autumn\AlwaysProgramming\Experiment\StackOverflowConsoe\Console\Debug\Console.exe
+D:\workfiles\master1_autumn\AlwaysProgramming\Experiment\StackOverflowConsoe\Console\Debug\Console.pdb
+D:\workfiles\master1_autumn\StackOverFlow\Console\Console\Debug\Console.exe
+D:\workfiles\master1_autumn\StackOverFlow\Console\Console\Debug\Console.pdb
